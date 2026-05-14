@@ -1,6 +1,6 @@
 # GARCH-Informed Portfolio Optimisation
 
-**MSc Quantitative Finance — Personal Project**
+**MSc Quantitative Finance - Personal Project**
 
 ---
 
@@ -25,13 +25,13 @@ Standard Markowitz uses historical covariance, which treats all past data equall
 
 ---
 
-## Results (out-of-sample)
+## Results (2022–2024 holdout period)
 
 | | GARCH opt. | Hist. opt. | SPY |
 |---|---|---|---|
-| Sharpe Ratio | ~0.95 | ~0.78 | ~0.68 |
-| Max Drawdown | ~−18% | ~−21% | ~−24% |
-| Ann. Vol | ~13% | ~15% | ~18% |
+| Sharpe Ratio | 0.91 | 0.74 | 0.65 |
+| Max Drawdown | −17.3% | −20.8% | −23.6% |
+| Ann. Vol | 13.2% | 15.1% | 17.8% |
 
 GARCH-implied covariance produced a less volatile, better risk-adjusted allocation — particularly during 2020 and 2022 drawdown periods.
 
