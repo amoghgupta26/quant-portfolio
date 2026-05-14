@@ -58,4 +58,4 @@ python portfolio.py
 
 ## Stack
 
-Python · Pandas · NumPy · arch · PyPortfolioOpt · yfinance · Matplotlib
+Python · Pandas · NumPy · arch · SciPy · yfinance · Matplotlib
