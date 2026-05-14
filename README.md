@@ -29,9 +29,9 @@ Standard Markowitz uses historical covariance, which treats all past data equall
 
 | | GARCH opt. | Hist. opt. | SPY |
 |---|---|---|---|
-| Sharpe Ratio | 0.91 | 0.74 | 0.65 |
-| Max Drawdown | −17.3% | −20.8% | −23.6% |
-| Ann. Vol | 13.2% | 15.1% | 17.8% |
+| Sharpe Ratio | 0.322 | 0.329 | 0.287 |
+| Max Drawdown | −27.28% | −27.16% | −23.60% |
+| Ann. Vol | 18.96% | 18.83% | 18.10% |
 
 ![Strategy Overview](results.png)
 
