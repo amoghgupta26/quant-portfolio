@@ -33,6 +33,8 @@ Standard Markowitz uses historical covariance, which treats all past data equall
 | Max Drawdown | −17.3% | −20.8% | −23.6% |
 | Ann. Vol | 13.2% | 15.1% | 17.8% |
 
+![Strategy Overview](results.png)
+
 GARCH-implied covariance produced a less volatile, better risk-adjusted allocation — particularly during 2020 and 2022 drawdown periods.
 
 ---
